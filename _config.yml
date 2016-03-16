@@ -1,0 +1,28 @@
+name: Corner Eyecare
+favicon: null
+layout_spectrum: 0.040826444048434496
+typography_spectrum: 0.021341363666579127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6233585504814982
+  lightness: 0.04334763018414378
+  saturation: 0.5008437486831099
+  rhythmicContrast: 0.14329684153199196
+purpose: []
